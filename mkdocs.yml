@@ -1,0 +1,7 @@
+site_name: Devpanel Docs
+repo_url: https://github.com/hukarere/mkdocs-devpanel
+theme: readthedocs
+#theme: mkdocs
+nav:
+  - Home: index.md
+  - About Devpanel: about.md
