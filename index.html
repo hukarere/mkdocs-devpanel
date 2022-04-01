@@ -1,12 +1,10 @@
 <h1>Static site</h1>
 <a href="site/">static site</a>
 
-<h1>Install dependencies to newly installed app</h1>
+<h1>Build static site</h1>
+<pre>mkdocs build</pre>
+
+<h1>Install mkdocs to newly installed app</h1>
 <pre>
-    sudo apt update
-    sudo apt python3-pip
-    sudo mkdir /home/www/.local/lib /home/www/.local/bin
-    sudo chown -R www /home/www/.local/lib /home/www/.local/bin
-    pip3 install mkdocs
-    # reload shell to get /home/www/.local/bin/ in $PATH
+    sudo ./install-mkdocs.sh
 </pre>
