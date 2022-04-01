@@ -1,4 +1,4 @@
-site_name: Devpanel Docs
+site_name: mkdocs - Devpanel Docs
 repo_url: https://github.com/hukarere/mkdocs-devpanel
 theme: readthedocs
 #theme: mkdocs
